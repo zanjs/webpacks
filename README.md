@@ -1,5 +1,7 @@
 # vue-webpack-boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/webpacks.svg)](https://greenkeeper.io/)
+
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
 
 ## Documentation
